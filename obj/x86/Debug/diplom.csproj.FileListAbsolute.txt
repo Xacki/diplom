@@ -1,0 +1,34 @@
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\bin\Debug\diplom.exe.config
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\bin\Debug\diplom.pdb
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.exe
+c:\users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.pdb
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.general.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.login.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.zast.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.csproj.ResolveComReference.cache
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Profile.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.DopRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.NauRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.VneRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Perevod.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.Predm.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+D:\projects\VS10\diplom\diplom\bin\Debug\diplom.exe.config
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.csproj.ResolveComReference.cache
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.exe
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.pdb
+D:\projects\VS10\diplom\diplom\bin\Debug\diplom.pdb
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.csprojResolveAssemblyReference.cache
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Perevod.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.DopRab.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.NauRab.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.VneRab.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.General.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Login.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Predm.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Profile.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.Zast.resources
+D:\projects\VS10\diplom\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache

@@ -1,0 +1,15 @@
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\bin\Release\diplom.exe.config
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\bin\Release\diplom.pdb
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.Properties.Resources.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.csproj.GenerateResource.Cache
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.exe
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.pdb
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.csproj.ResolveComReference.cache
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.csprojResolveAssemblyReference.cache
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.DopRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.NauRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.VneRab.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.General.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.Login.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.Profile.resources
+C:\Users\kanek\documents\visual studio 2010\Projects\diplom\diplom\obj\x86\Release\diplom.Zast.resources
